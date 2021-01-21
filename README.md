@@ -1,3 +1,5 @@
+Updated temporarily.
+
 ![Project icon](https://git-assets.jellysquid.me/hotlink-ok/sodium/icon-rounded-128px.png)
 
 # Sodium (for Fabric)
